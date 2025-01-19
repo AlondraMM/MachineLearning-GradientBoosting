@@ -1,1 +1,2 @@
-# MachineLearning
+# Machine Learning
+Este proyecto profundizó en el análisis del algoritmo Gradient Boosting y su versión regularizada, Extreme Gradient Boosting (XGBoost), reconocida por su destacada eficiencia. A través de una implementación meticulosa en un estudio de caso enfocado en la clasificación de pacientes con insuficiencia cardíaca, se evidenció cómo estas técnicas avanzadas mejoran significativamente la precisión y capacidad predictiva.
